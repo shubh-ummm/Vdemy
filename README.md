@@ -1,2 +1,2 @@
 # Vdemy
-eLearning platform
+eLearning platform using MERN Stack
